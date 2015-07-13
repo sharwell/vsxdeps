@@ -33,6 +33,6 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSIDE$\PublicAssemblies\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll" target="lib\net45"/>
   </files>
 </package>

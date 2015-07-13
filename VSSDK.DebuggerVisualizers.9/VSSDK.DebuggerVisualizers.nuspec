@@ -31,7 +31,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSIDE$\PublicAssemblies\Microsoft.VisualStudio.DebuggerVisualizers.dll" target="lib\net20"/>
-    <file src="$VSIDE$\PublicAssemblies\Microsoft.VisualStudio.DebuggerVisualizers.xml" target="lib\net20"/>
+    <file src="Microsoft.VisualStudio.DebuggerVisualizers.dll" target="lib\net20"/>
+    <file src="Microsoft.VisualStudio.DebuggerVisualizers.xml" target="lib\net20"/>
   </files>
 </package>

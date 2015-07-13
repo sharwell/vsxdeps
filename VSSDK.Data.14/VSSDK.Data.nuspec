@@ -68,19 +68,19 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.Data.ConnectionUI.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.Data.ConnectionUI.xml" target="lib\net45"/>
+    <file src="Microsoft.Data.ConnectionUI.dll" target="lib\net45"/>
+    <file src="Microsoft.Data.ConnectionUI.xml" target="lib\net45"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Data.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Data.xml" target="lib\net45"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Core.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Core.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Data.Core.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Data.Core.xml" target="lib\net45"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Framework.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Framework.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Data.Framework.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Data.Framework.xml" target="lib\net45"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Services.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Services.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Data.Services.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Data.Services.xml" target="lib\net45"/>
   </files>
 </package>

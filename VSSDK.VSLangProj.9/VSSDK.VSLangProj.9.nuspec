@@ -31,7 +31,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$MSEnv$\PublicAssemblies\VSLangProj90.dll" target="lib\net20"/>
-    <file src="$MSEnv$\PublicAssemblies\VSLangProj90.xml" target="lib\net20"/>
+    <file src="VSLangProj90.dll" target="lib\net20"/>
+    <file src="VSLangProj90.xml" target="lib\net20"/>
   </files>
 </package>

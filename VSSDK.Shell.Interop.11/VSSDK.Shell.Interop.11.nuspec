@@ -37,7 +37,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Shell.Interop.11.0.dll" target="lib\net20"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Shell.Interop.11.0.xml" target="lib\net20"/>
+    <file src="Microsoft.VisualStudio.Shell.Interop.11.0.dll" target="lib\net20"/>
+    <file src="Microsoft.VisualStudio.Shell.Interop.11.0.xml" target="lib\net20"/>
   </files>
 </package>

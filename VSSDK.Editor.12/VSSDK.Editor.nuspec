@@ -46,7 +46,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Editor.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Editor.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Editor.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Editor.xml" target="lib\net45"/>
   </files>
 </package>

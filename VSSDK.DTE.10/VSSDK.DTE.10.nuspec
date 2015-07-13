@@ -28,7 +28,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$MSEnv$\PublicAssemblies\envdte100.dll" target="lib\net20"/>
-    <file src="$MSEnv$\PublicAssemblies\EnvDTE100.xml" target="lib\net20"/>
+    <file src="envdte100.dll" target="lib\net20"/>
+    <file src="EnvDTE100.xml" target="lib\net20"/>
   </files>
 </package>

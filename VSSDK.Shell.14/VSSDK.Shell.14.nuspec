@@ -74,7 +74,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Shell.14.0.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Shell.14.0.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Shell.14.0.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Shell.14.0.xml" target="lib\net45"/>
   </files>
 </package>

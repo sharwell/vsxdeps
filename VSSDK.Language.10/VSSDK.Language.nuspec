@@ -42,10 +42,10 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Language.Intellisense.dll" target="lib\net40"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Language.Intellisense.xml" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Language.Intellisense.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Language.Intellisense.xml" target="lib\net40"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Language.StandardClassification.dll" target="lib\net40"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Language.StandardClassification.xml" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Language.StandardClassification.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Language.StandardClassification.xml" target="lib\net40"/>
   </files>
 </package>

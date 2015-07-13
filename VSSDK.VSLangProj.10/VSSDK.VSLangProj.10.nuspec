@@ -32,7 +32,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$MSEnv$\PublicAssemblies\VSLangProj100.dll" target="lib\net20"/>
-    <file src="$MSEnv$\PublicAssemblies\VSLangProj100.xml" target="lib\net20"/>
+    <file src="VSLangProj100.dll" target="lib\net20"/>
+    <file src="VSLangProj100.xml" target="lib\net20"/>
   </files>
 </package>

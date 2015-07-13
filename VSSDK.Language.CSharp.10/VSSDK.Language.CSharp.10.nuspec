@@ -56,8 +56,8 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSIDE$\Microsoft.VisualStudio.CSharp.Services.Language.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.CSharp.Services.Language.dll" target="lib\net40"/>
 
-    <file src="$VSIDE$\Microsoft.VisualStudio.CSharp.Services.Language.Interop.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.CSharp.Services.Language.Interop.dll" target="lib\net40"/>
   </files>
 </package>

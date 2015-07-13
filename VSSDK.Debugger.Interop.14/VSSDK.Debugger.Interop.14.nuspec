@@ -36,6 +36,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSIDE$\Remote Debugger\x86\Microsoft.VisualStudio.Debugger.Interop.14.0.dll" target="lib\net20"/>
+    <!-- From Visual Studio 2015 SDK RC -->
+    <file src="Microsoft.VisualStudio.Debugger.Interop.14.0.dll" target="lib\net20"/>
   </files>
 </package>

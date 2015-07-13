@@ -57,16 +57,16 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Text.Data.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Text.Data.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Text.Data.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Text.Data.xml" target="lib\net45"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Text.Logic.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Text.Logic.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Text.Logic.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Text.Logic.xml" target="lib\net45"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Text.UI.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Text.UI.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Text.UI.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Text.UI.xml" target="lib\net45"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Text.UI.Wpf.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Text.UI.Wpf.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Text.UI.Wpf.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Text.UI.Wpf.xml" target="lib\net45"/>
   </files>
 </package>

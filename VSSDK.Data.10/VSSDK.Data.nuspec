@@ -25,6 +25,9 @@
       <!-- Visual Studio 2010 -->
       <dependency id="VSSDK.IDE.10" version="[10.0.4,11.0.0)"/>
       <!--
+      Exposed Dependencies (Microsoft.Data.ConnectionUI.dll):
+        (none)
+
       Exposed Dependencies (Microsoft.VisualStudio.Data.dll):
         Microsoft.VisualStudio.Data
         Microsoft.VisualStudio.OLE.Interop
@@ -63,16 +66,19 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.dll" target="lib\net40"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.xml" target="lib\net40"/>
+    <file src="Microsoft.Data.ConnectionUI.dll" target="lib\net40"/>
+    <file src="Microsoft.Data.ConnectionUI.xml" target="lib\net40"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Core.dll" target="lib\net40"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Core.xml" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Data.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Data.xml" target="lib\net40"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Framework.dll" target="lib\net40"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Framework.xml" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Data.Core.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Data.Core.xml" target="lib\net40"/>
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Services.dll" target="lib\net40"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Data.Services.xml" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Data.Framework.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Data.Framework.xml" target="lib\net40"/>
+
+    <file src="Microsoft.VisualStudio.Data.Services.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Data.Services.xml" target="lib\net40"/>
   </files>
 </package>

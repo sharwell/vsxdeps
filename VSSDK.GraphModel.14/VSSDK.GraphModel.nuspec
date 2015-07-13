@@ -45,6 +45,6 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSIDE$\PublicAssemblies\Microsoft.VisualStudio.GraphModel.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.GraphModel.dll" target="lib\net45"/>
   </files>
 </package>

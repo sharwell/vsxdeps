@@ -60,8 +60,8 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSIDE$\Microsoft.VisualStudio.CSharp.Services.Language.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.CSharp.Services.Language.dll" target="lib\net45"/>
 
-    <file src="$VSIDE$\Microsoft.VisualStudio.CSharp.Services.Language.Interop.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.CSharp.Services.Language.Interop.dll" target="lib\net45"/>
   </files>
 </package>

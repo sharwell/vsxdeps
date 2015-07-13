@@ -32,10 +32,10 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$MSEnv$\PublicAssemblies\envdte90.dll" target="lib\net20"/>
-    <file src="$MSEnv$\PublicAssemblies\envdte90.xml" target="lib\net20"/>
+    <file src="envdte90.dll" target="lib\net20"/>
+    <file src="envdte90.xml" target="lib\net20"/>
 
-    <file src="$MSEnv$\PublicAssemblies\envdte90a.dll" target="lib\net20"/>
-    <file src="$MSEnv$\PublicAssemblies\envdte90a.xml" target="lib\net20"/>
+    <file src="envdte90a.dll" target="lib\net20"/>
+    <file src="envdte90a.xml" target="lib\net20"/>
   </files>
 </package>

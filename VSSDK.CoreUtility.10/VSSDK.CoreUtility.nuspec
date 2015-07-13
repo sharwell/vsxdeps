@@ -31,7 +31,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.CoreUtility.dll" target="lib\net40"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.CoreUtility.xml" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.CoreUtility.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.CoreUtility.xml" target="lib\net40"/>
   </files>
 </package>

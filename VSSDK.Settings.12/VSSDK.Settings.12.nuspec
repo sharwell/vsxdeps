@@ -29,7 +29,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Settings.12.0.dll" target="lib\net40"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Settings.12.0.xml" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Settings.12.0.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Settings.12.0.xml" target="lib\net40"/>
   </files>
 </package>

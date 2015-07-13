@@ -33,10 +33,10 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$MSEnv$\PublicAssemblies\VSLangProj.dll" target="lib\net20"/>
-    <file src="$MSEnv$\PublicAssemblies\VSLangProj.xml" target="lib\net20"/>
+    <file src="VSLangProj.dll" target="lib\net20"/>
+    <file src="VSLangProj.xml" target="lib\net20"/>
 
-    <file src="$MSEnv$\PublicAssemblies\VSLangProj2.dll" target="lib\net20"/>
-    <file src="$MSEnv$\PublicAssemblies\VSLangProj2.xml" target="lib\net20"/>
+    <file src="VSLangProj2.dll" target="lib\net20"/>
+    <file src="VSLangProj2.xml" target="lib\net20"/>
   </files>
 </package>

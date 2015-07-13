@@ -29,7 +29,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v2.0\Microsoft.VisualStudio.TextManager.Interop.dll" target="lib\net20"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v2.0\Microsoft.VisualStudio.TextManager.Interop.xml" target="lib\net20"/>
+    <file src="Microsoft.VisualStudio.TextManager.Interop.dll" target="lib\net20"/>
+    <file src="Microsoft.VisualStudio.TextManager.Interop.xml" target="lib\net20"/>
   </files>
 </package>

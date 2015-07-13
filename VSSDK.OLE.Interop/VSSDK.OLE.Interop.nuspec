@@ -28,7 +28,8 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v2.0\Microsoft.VisualStudio.OLE.Interop.dll" target="lib\net20"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v2.0\Microsoft.VisualStudio.OLE.Interop.xml" target="lib\net20"/>
+    <!-- From Visual Studio 2013 SDK -->
+    <file src="Microsoft.VisualStudio.OLE.Interop.dll" target="lib\net20"/>
+    <file src="Microsoft.VisualStudio.OLE.Interop.xml" target="lib\net20"/>
   </files>
 </package>

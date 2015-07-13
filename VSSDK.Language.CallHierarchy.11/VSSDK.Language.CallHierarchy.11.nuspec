@@ -37,8 +37,8 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSIDE$\PrivateAssemblies\Microsoft.VisualStudio.Language.CallHierarchy.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Language.CallHierarchy.dll" target="lib\net45"/>
 
-    <file src="$VSIDE$\Microsoft.VisualStudio.CallHierarchy.Package.Definitions.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.CallHierarchy.Package.Definitions.dll" target="lib\net45"/>
   </files>
 </package>

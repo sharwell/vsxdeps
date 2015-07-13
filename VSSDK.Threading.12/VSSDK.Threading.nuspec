@@ -31,7 +31,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Threading.dll" target="lib\net45"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Threading.xml" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Threading.dll" target="lib\net45"/>
+    <file src="Microsoft.VisualStudio.Threading.xml" target="lib\net45"/>
   </files>
 </package>

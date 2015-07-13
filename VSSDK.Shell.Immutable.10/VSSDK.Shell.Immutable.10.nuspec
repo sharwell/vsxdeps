@@ -28,7 +28,7 @@
 
     <!-- Reference assemblies -->
 
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Shell.Immutable.10.0.dll" target="lib\net40"/>
-    <file src="$VSSDK$\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Shell.Immutable.10.0.xml" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Shell.Immutable.10.0.dll" target="lib\net40"/>
+    <file src="Microsoft.VisualStudio.Shell.Immutable.10.0.xml" target="lib\net40"/>
   </files>
 </package>
